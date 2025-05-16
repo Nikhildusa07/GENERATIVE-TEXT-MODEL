@@ -1,4 +1,19 @@
-#  GPT-2 Text Generator
+# GPT-2 TEXT GENERATOR
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: DUSANIKHIL
+
+*INTERN ID*: C0DF113
+
+*DOMAIN*: NATURAL LANGUAGE PROCESSING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+
+#  GPT-2 TEXT GENERATOR
 
 GPT-2 Text Generator is a Flask-based web application that generates coherent and creative text based on user prompts using OpenAI’s GPT-2 model. Users can enter a prompt, choose output length, and generate multiple variations with an intuitive web interface.
 
