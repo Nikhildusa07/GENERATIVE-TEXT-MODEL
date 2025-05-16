@@ -42,5 +42,10 @@ GENERATIVE-TEXT-MODEL is a Flask-based web application that generates coherent a
 
 Install dependencies using:
 
-```bash
-pip install -r requirements.txt
+-->pip install -r requirements.txt
+
+
+
+# Output
+
+![Image](https://github.com/user-attachments/assets/fbb96692-ae65-401b-b1a0-7d837500d43e)
