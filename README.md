@@ -49,3 +49,5 @@ Install dependencies using:
 # Output
 
 ![Image](https://github.com/user-attachments/assets/8333d7ef-9bec-492e-871d-a0c2b4b3e2db)
+
+This project was developed as part of Task 4 during my internship at CODTECH IT Solutions.
