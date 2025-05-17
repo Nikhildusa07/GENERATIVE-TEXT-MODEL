@@ -5,21 +5,21 @@
 
 *INTERN ID*: C0DF113
 
-*DOMAIN*: NATURAL LANGUAGE PROCESSING
+*DOMAIN*: NArtificial Intelligence Markup Language
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH KUMAR
 
 
 
-#  GENERATIVE-TEXT-MODEL
+#  DESCRIPTION
 
 GENERATIVE-TEXT-MODEL is a Flask-based web application that generates coherent and creative text based on user prompts using OpenAI’s GPT-2 model. Users can enter a prompt, choose output length, and generate multiple variations with an intuitive web interface.
 
 ---
 
-##  Features
+##  FEATURES
 
 -  Generate text based on any custom prompt
 -  Supports multiple output variations
@@ -30,7 +30,7 @@ GENERATIVE-TEXT-MODEL is a Flask-based web application that generates coherent a
 
 ---
 
-##  How It Works
+##  HOW IT WORKS
 
 - The app loads the pre-trained **GPT-2 model** from Hugging Face Transformers.
 - Users input a custom prompt and select generation settings.
@@ -38,7 +38,7 @@ GENERATIVE-TEXT-MODEL is a Flask-based web application that generates coherent a
 
 ---
 
-##  Requirements
+##  REQUIREMENTS
 
 Install dependencies using:
 
